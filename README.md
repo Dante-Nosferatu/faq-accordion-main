@@ -10,6 +10,9 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [What I Learned](#what-i-learned)
  
 
+![Captura de pantalla 2024-12-22 160709](https://github.com/user-attachments/assets/6aa9bb81-3bd2-4f75-8a50-d21580266b43)
+
+
 ## Overview
 This project shows an example of an accordion with information about Frontrered Mentor, explaining its mission.
 
